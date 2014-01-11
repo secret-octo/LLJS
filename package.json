@@ -1,0 +1,26 @@
+{
+  "name": "LLJS",
+  "version": "0.0.1",
+  "description": "LLJS",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/secret-octo/LLJS.git"
+  },
+  "keywords": [
+    "LLJS"
+  ],
+  "author": "secret-octo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/secret-octo/LLJS/issues"
+  },
+  "homepage": "https://github.com/secret-octo/LLJS"
+}
